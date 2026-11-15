@@ -1,0 +1,6 @@
+{
+  "name": "FinGuard AI: Financial SQL Intelligence & Receipt Card Gatekeeper",
+  "description": "Natural language to SQL financial database explorer paired with automated AI receipt cross-referencing and corporate debit card unlocking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
